@@ -1,0 +1,12 @@
+@media (max-width: 375px) {
+  .title-advice {
+    font-size: 9px;
+    margin-bottom: 20px;
+  }
+  
+
+  .advice {
+    font-size: 17px;
+  }
+  
+}
