@@ -15,7 +15,7 @@ const generateNewAdvice = async () => {
   const advice = slip.slip.advice;
   const adviceID = slip.slip.id;
 
-  textAdviceTitle.innerText = `Advice #${adviceID}`;
+  textAdviceTitle.innerText = `"Advice #${adviceID}"`;
   textAdvice.innerText = `${advice}`;
 }
 
