@@ -25,7 +25,7 @@ main {
   border-radius: 10px;
   padding-top: 40px;
   margin: 0 20px;
-  box-shadow: 0px 6px 30px 0px rgba(0, 0, 0, 0.184);
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.184);
 }
 
 .title-advice {
